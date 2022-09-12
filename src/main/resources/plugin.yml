@@ -1,0 +1,4 @@
+name: ExampleKotlin
+main: dev.bingulhan.Example
+version: 0.1.0
+description: Example Kotlin Plugin
